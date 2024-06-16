@@ -267,6 +267,7 @@ justify-content: center;
     display: flex;
     justify-content: center;
     gap: 24px;
+    padding-top: 8px;
 }
 .team-item-icon {
     width: 40px;
