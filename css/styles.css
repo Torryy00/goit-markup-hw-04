@@ -448,3 +448,8 @@ justify-content: center;
 .icon-footer-svg {
     fill: #fff;
 }
+.footer-div {
+    display: flex;
+    gap: 120px;
+    align-items: baseline;
+}
